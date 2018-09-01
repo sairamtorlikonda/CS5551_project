@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Weather Report</title>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.1.1/angular.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+</head>
+
+
+
+
+<body>
+<div class="jumbotron">
+<div class ="container">
+    <div class="row"><h3>Weather Report</h3></div>
+    <div class="row panel panel-primary" style="margin-top: 50px; padding-top: 30px;">
+        <div ng-app="weather" ng-controller="weathercontrol" class="container">
+
+            <div class="row">
+                <div class="col-md-4" >
+                    <label for="state_code">State code:</label>
+                    <input type="text" class="form-control" name = "state_code" placeholder="state code" ng-model="state_code" >
+                </div>
+
+                <div class="col-md-4" >
+                    <label for="city_name" >City name:</label>
+                    <input type="text" class="form-control" name="city_name" placeholder="city name" ng-model="city_name" >
+                </div>
+                <div class="col-md-4">
+                    <button  type = "submit" ng-click="getWeather()" class="btn btn-primary">search weather</button>
+                </div>
+            </div>
+
+            <br/>
+            <br/>
+            <div ng-repeat="x in temp|limitTo:5" class="col-sm-2 well"style="margin-left: 2px;" >
+                <p>{{x.FCTTIME.civil}}</p>
+                <p>{{x.temp.english}}&#8457;  {{x.condition}}</p>
+                <div><img src = "{{x.icon_url}}" /></div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+
+<script>
+    angular.module('weather', [])
+        .controller('weathercontrol', function($scope, $http) {
+            $scope.getWeather = function() {
+                var state= $scope.state_code;
+                var city = $scope.city_name;
+
+                $http.get('https://api.wunderground.com/api/36b799dc821d5836/hourly/q/' + state + '/' + city + '.json').success(function (data) {
+                    console.log(data);
+                    $scope.temp = data.hourly_forecast;
+                })
+            }
+        });
+</script>
