@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="77432446-8ed7-4cea-b2f4-93336c76b3c5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../ICP10/SOURCE/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP10/SOURCE/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ICP10/SOURCE/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../ICP10/SOURCE/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Icp9/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/Icp9/app.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1781577684">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Icp9/app.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Icp9/app.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/Icp9/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/async/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/bluebird/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/escape-html/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/etag/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/express/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/finalhandler/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/forwarded/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/fresh/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/ipaddr.js/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/kareem/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/lodash.get/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/lodash/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/merge-descriptors/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/methods/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mime/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose-legacy-pluralize/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/aggregate/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/express/connection-sharing/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/geospatial/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/lean/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/mapreduce/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/promises/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/querybuilder/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/examples/replicasets/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mongoose/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mpath/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mquery/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/mquery/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/parseurl/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/path-to-regexp/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/proxy-addr/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/range-parser/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/regexp-clone/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/safer-buffer/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/send/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/serve-static/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/sliced/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/utils-merge/package.json" />
+      <path value="$PROJECT_DIR$/Icp9/node_modules/vary/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/accepts/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/accepts/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/accepts/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/ansi-regex/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/ansi-styles/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/array-flatten/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/asn1/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/assert/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/asynckit/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/aws-sign2/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/aws4/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bcrypt-pbkdf/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bl/node_modules/readable-stream/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bl/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/body-parser/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/body-parser/node_modules/qs/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/body-parser/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/boom/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/buffer-shims/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/bytes/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/caseless/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/chalk/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/combined-stream/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/commander/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/content-disposition/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/content-type/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/cookie-signature/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/cookie/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/core-util-is/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/cors/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/cryptiles/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/dashdash/node_modules/assert-plus/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/dashdash/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/debug/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/delayed-stream/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/destroy/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/ecc-jsbn/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/ee-first/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/encodeurl/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/es6-promise/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/escape-string-regexp/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/graceful-readlink/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/has-ansi/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/hoek/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/http-errors/node_modules/depd/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/http-errors/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/http-errors/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/iconv-lite/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/inherits/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/isarray/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/jsbn/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/media-typer/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/memory-pager/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mime-db/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mime-types/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mongo/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mongodb-core/node_modules/bson/browser_build/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mongodb-core/node_modules/bson/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mongodb-core/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/mongodb/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/ms/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/negotiator/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/object-assign/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/on-finished/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/process-nextick-args/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/raw-body/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/require_optional/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/require_optional/test/nestedTest/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/resolve-from/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/safe-buffer/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/saslprep/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/semver/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/setprototypeof/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/sparse-bitfield/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/statuses/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/string_decoder/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/strip-ansi/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/supports-color/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/tweetnacl/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/type-is/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/unpipe/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/util-deprecate/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/util/package.json" />
+      <path value="$PROJECT_DIR$/MongoCRUD/node_modules/vary/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="724" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Source" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Source" type="462c0819:PsiDirectoryNode" />
+              <item name="Icp9" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="77432446-8ed7-4cea-b2f4-93336c76b3c5" name="Default Changelist" comment="" />
+      <created>1540961005934</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540961005934</updated>
+      <workItem from="1540961007326" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="53000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1280" height="724" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494043" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Icp9/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

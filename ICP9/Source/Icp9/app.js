@@ -7,7 +7,7 @@ app.use(bodyParser.urlencoded({ extended: true }));
 
 var mongoose = require("mongoose");
 mongoose.Promise = global.Promise;
-mongoose.connect("mongodb://sekhar1926:Aditya*1996@ds227243.mlab.com:27243/ase",{
+mongoose.connect("mongodb://admin:admin123456@ds227243.mlab.com:27243/ase",{
    
     useNewUrlParser: true,
 });
